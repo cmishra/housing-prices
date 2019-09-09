@@ -1,0 +1,12 @@
+# emacs autosave
+*~
+*#
+
+# jupyter autosave
+*ipynb_checkpoints
+
+# pycache
+*__pycache__*
+
+# data
+*.parquet
